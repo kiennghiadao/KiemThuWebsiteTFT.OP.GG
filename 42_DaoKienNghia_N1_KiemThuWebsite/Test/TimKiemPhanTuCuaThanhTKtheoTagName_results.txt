@@ -1,0 +1,7 @@
+Tìm kiếm phần tử của thanh tìm kiếm bằng Tag Name:
+Thông tin về phần tử được tìm thấy:
+Tag name: input
+Attribute 'type': text
+Attribute 'class': search-summoner-input css-1t3emyv
+Attribute 'id': search-summoner-compact
+Attribute 'placeholder': 

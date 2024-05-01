@@ -1,0 +1,37 @@
+{
+  "sp_42_Nghia": [
+    {
+      "0": {
+        "id": "1",
+        "name": "Perorekile#3581",
+        "Ranked Solo": "Bronze 2",
+        "Ranked Point": 100,
+        "Level": 405,
+        "Total Played Matches": 5
+      },
+      "1": {
+        "id": "2",
+        "name": "A00#7488",
+        "Ranked Solo": "Unranked",
+        "Level": 365,
+        "Total Played Matches": 0
+      },
+      "2": {
+        "id": "3",
+        "name": "Z00#3617",
+        "Ranked Solo": "Unranked",
+        "Level": 357,
+        "Total Played Matches": 0
+      },
+      "3": {
+        "id": "5",
+        "name": "CME AMC37#AMC37",
+        "Ranked Solo": "Gold I",
+        "Ranked Point": 51,
+        "Level": 7,
+        "Total Played Matches": 95
+      },
+      "id": "d272"
+    }
+  ] 
+}

@@ -1,0 +1,7 @@
+Tìm kiếm thông tin theo Xpath:
+Tìm thấy thông tin cho người chơi: Perorekile#3581
+Không tìm thấy thông tin cho người chơi: Perorekile#3333
+Tìm thấy thông tin cho người chơi: A00
+Tên người chơi 'Perorekile^$#3581!@%' không hợp lệ do chứa kí tự đặc biệt trước hoặc sau tag name.
+Không tìm thấy thông tin cho người chơi: Perorekileedde
+Tên người chơi không được để trống.

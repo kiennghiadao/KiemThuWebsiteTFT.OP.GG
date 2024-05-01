@@ -1,0 +1,24 @@
+======================
+Test đăng nhập bằng CssSelector:
+Đăng nhập epicgamenghia@gmail.com thành công!
+Đăng nhập epicgamenghia@gmail.com thất bại! Lí do: Wrong password.
+Đăng nhập epicgamenghia@gmail.com thất bại! Lí do: Mật khẩu không được để trống
+Đăng nhập thất bại! testmai@gmail.com không đúng định dạng hay không tồn tại trong hệ thống.
+Đăng nhập thất bại! aishdoen@mcir không đúng định dạng hay không tồn tại trong hệ thống.
+Đăng nhập thất bại! Lí do: Tài khoản email không được để trống
+======================
+Test đăng nhập bằng Xpath:
+Đăng nhập epicgamenghia@gmail.com thành công!
+Đăng nhập epicgamenghia@gmail.com thất bại! Lí do: Wrong password.
+Đăng nhập epicgamenghia@gmail.com thất bại! Lí do: Mật khẩu không được để trống
+Đăng nhập thất bại! testmai@gmail.com không đúng định dạng hay không tồn tại trong hệ thống.
+Đăng nhập thất bại! aishdoen@mcir không đúng định dạng hay không tồn tại trong hệ thống.
+Đăng nhập thất bại! Lí do: Tài khoản email không được để trống
+======================
+Tìm kiếm phần tử của thanh nhập email bằng Tag Name:
+Thông tin về phần tử được tìm thấy:
+Tag name: input
+Attribute 'type': email
+Attribute 'class': peer p2-reg w-full px-4 py-3 bg-white dark:bg-darkpurple-900 rounded-md placeholder:text-gray-400 disabled:text-gray-300 dark:disabled:text-darkpurple-500 disabled:border-darkpurple-300 dark:disabled:border-darkpurple-500 border-gray-300 dark:border-darkpurple-500 border
+Attribute 'id': 
+Attribute 'placeholder':  
